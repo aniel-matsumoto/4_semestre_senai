@@ -1,0 +1,12 @@
+
+
+.container-header{
+    height: 60px;
+    background-color: rgb(157, 157, 219);
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    gap: 25px;
+    
+
+}
